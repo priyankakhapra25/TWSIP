@@ -1,2 +1,2 @@
 # TWSIP-
-Here are the projects that I have done in the JAVA internship in topperworld
+Here are the projects that I have done during the JAVA internship in topperworld
